@@ -7,17 +7,15 @@ Console.Write("Введите число a: ");
 int a = int.Parse(Console.ReadLine());
 Console.Write("Введите число b: ");
 int b = int.Parse(Console.ReadLine());
-Console.Write("Введите число с: ");
-int с = int.Parse(Console.ReadLine());
-int a,b,c;
-if(a > b && a > c){
-    ();
-}else{
-    ($"Большее число {max = b}");
-}
-if(max > c){
-    ($"Большее число {max = a}");
-}else{
-    ($"Большее число {max = c}");
-}
-Console.Write($"{max} ");
+Console.Write("Введите число c: ");
+int c = int.Parse(Console.ReadLine());
+int[] Numbers = {a, b, c};
+int max = Numbers[0];
+for (int i = 0; i < 3; i++)
+ {
+    if (Numbers[i] > max)
+  {
+        max = Numbers[i];
+    }
+ }
+Console.WriteLine($"Максимальное число {max}");
