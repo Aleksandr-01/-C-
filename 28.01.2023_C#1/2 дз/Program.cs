@@ -7,4 +7,12 @@ Console.Write("Введите число a: ");
 int a = int.Parse(Console.ReadLine());
 Console.Write("Введите число b: ");
 int b = int.Parse(Console.ReadLine());
-if (b == a * a){
+int max = a;
+int min = b;
+if(a > b){
+    Console.WriteLine($"Большее число {max = a}");
+    Console.WriteLine($"Меньшее число {min = b}");
+}else{
+    Console.WriteLine($"Большее число {max = b}");
+    Console.WriteLine($"Меньшее число {min = a}");
+}
