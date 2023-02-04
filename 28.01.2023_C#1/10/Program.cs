@@ -10,7 +10,7 @@ Console.WriteLine("Введите трехзначное число: ");
 int a = int.Parse(Console.ReadLine());
 while((a<100) || (a>1000))
 {
-    Console.WriteLine("неверное число, введите трехзначное");
+    Console.WriteLine("Введено не трехзначное число, повторите ввод");
     a = int.Parse(Console.ReadLine());
 }
  Console.WriteLine($"{a} -> {a/10 - 10*(a/100)}"); 
