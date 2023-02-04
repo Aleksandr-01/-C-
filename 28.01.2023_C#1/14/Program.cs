@@ -1,4 +1,4 @@
-﻿//7 и 23 число одновременно кратно
+﻿// Одновременно кратное числам 7 и 23 
 Console.Clear();
 Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
