@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\10 дз\\10.csproj",
-      "projectName": "10",
-      "projectPath": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\10 дз\\10.csproj",
+      "projectUniqueName": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\18\\18.csproj",
+      "projectName": "18",
+      "projectPath": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\18\\18.csproj",
       "packagesPath": "C:\\Users\\Нубук\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\10 дз\\obj\\",
+      "outputPath": "C:\\Users\\Нубук\\Desktop\\git учеба\\C# учеба\\28.01.2023_C#1\\18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Нубук\\AppData\\Roaming\\NuGet\\NuGet.Config"
