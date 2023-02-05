@@ -1,0 +1,15 @@
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\bin\Debug\net6.0\18 как на семинаре.exe
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\bin\Debug\net6.0\18 как на семинаре.deps.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\bin\Debug\net6.0\18 как на семинаре.runtimeconfig.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\bin\Debug\net6.0\18 как на семинаре.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\bin\Debug\net6.0\18 как на семинаре.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.csproj.AssemblyReference.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.AssemblyInfoInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.AssemblyInfo.cs
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.csproj.CoreCompileInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\refint\18 как на семинаре.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\18 как на семинаре.genruntimeconfig.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\18\18 как на семинаре\obj\Debug\net6.0\ref\18 как на семинаре.dll
