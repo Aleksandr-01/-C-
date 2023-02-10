@@ -8,7 +8,7 @@
 Console.Clear();
 Console.WriteLine("Введите трехзначное число: ");
 int a = int.Parse(Console.ReadLine());
-while((a<100) || (a>1000))
+while((a<100) || (a>999))
 {
     Console.WriteLine("Введено не трехзначное число, повторите ввод");
     a = int.Parse(Console.ReadLine());
