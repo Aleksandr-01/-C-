@@ -1,18 +1,20 @@
 ﻿// Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
-// 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
 Console.Clear();
-Console.Write("Введите число: ");
-int num = int.Parse(Console.ReadLine());
-int[] array = Create(num);
-Console.WriteLine($"[{String.Join(", ", array)}]");
+int num = 8;
+Console.Write("Мин элемент массива: ");
+int x = int.Parse(Console.ReadLine());
+Console.Write("Макс элемент массива: ");
+int y = int.Parse(Console.ReadLine());
+int[] array = GetBinArray(num);
+Console.Write($"[{String.Join(", ", array)}]");
 
-int[] Create (int n)
-{
-    int[] result = new int[n];
-    for (int i = 0; i < n; i++)
+int[] GetBinArray(int size)
+{   
+    int[] result = new int[size];
+    for (int i = 0; i < size; i++)
     {
-        result[i] = new Random().Next(2);
+        result[i] = new Random().Next(x + 1, y);
     }
     return result;
     }

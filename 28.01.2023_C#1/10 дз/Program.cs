@@ -5,7 +5,7 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.Clear();
+// Console.Clear();
 Console.WriteLine("Введите трехзначное число: ");
 int a = int.Parse(Console.ReadLine());
 while((a<100) || (a>999))
