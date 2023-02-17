@@ -7,7 +7,7 @@ Console.Clear();
 double [] RandomArray(int n)
 {   
     double [] array = new double [n];
-        for(int i =0; i<n; i++)
+        for(int i = 0; i < n; i++)
     {
         array [i] = new Random().Next(100);
     }
@@ -19,7 +19,7 @@ double FindDiff(double [] A)
 {
     double max = A[0];
     double min = A[0];
-    for (int i = 1; i<A.Length; i++)
+    for (int i = 1; i < A.Length; i++)
     {
      if (A[i]> max) max = A[i];
      if (A[i]< min) min = A[i];
