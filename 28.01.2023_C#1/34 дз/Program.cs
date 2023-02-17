@@ -4,7 +4,7 @@
 
 Console.Clear();
 
-int [] GetRandomArray(int n)
+int [] RandomArray(int n)
 {   
     int [] array = new int [n];
         for(int i = 0; i < n; i++)
@@ -14,7 +14,7 @@ int [] GetRandomArray(int n)
     return array;
 }
 
-int [] arr1 = GetRandomArray(4);
+int [] arr1 = RandomArray(4);
 
 int SumEvenNum(int[] array)
 {
