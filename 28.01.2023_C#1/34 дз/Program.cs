@@ -4,10 +4,10 @@
 
 Console.Clear();
 
-int [] GetRandomArray(int a)
+int [] GetRandomArray(int n)
 {   
-    int [] array = new int [a];
-        for(int i = 0; i < a; i++)
+    int [] array = new int [n];
+        for(int i = 0; i < n; i++)
     {
         array [i] = new Random().Next(100, 1000);
     }
