@@ -47,7 +47,7 @@ int [,] FindElement (int[,] array)
     int n = int.Parse(Console.ReadLine());
     if (m > array.GetLength(0) || n > array.GetLength(1) || m <= 0 || n <= 0)
     {Console.WriteLine("Нет такого элемента");}
-    else {Console.WriteLine($"Найденный элемент -> {array[m-1,n-1]}");}
+    else {Console.WriteLine($"Найденный элемент -> {array[m - 1,n - 1]}");}
     return array;
 }
 
