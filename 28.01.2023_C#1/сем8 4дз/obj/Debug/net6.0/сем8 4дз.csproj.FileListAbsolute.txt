@@ -1,0 +1,15 @@
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\bin\Debug\net6.0\сем8 4дз.exe
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\bin\Debug\net6.0\сем8 4дз.deps.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\bin\Debug\net6.0\сем8 4дз.runtimeconfig.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\bin\Debug\net6.0\сем8 4дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\bin\Debug\net6.0\сем8 4дз.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.csproj.AssemblyReference.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.AssemblyInfoInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.AssemblyInfo.cs
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.csproj.CoreCompileInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\refint\сем8 4дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\сем8 4дз.genruntimeconfig.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\сем8 4дз\obj\Debug\net6.0\ref\сем8 4дз.dll
