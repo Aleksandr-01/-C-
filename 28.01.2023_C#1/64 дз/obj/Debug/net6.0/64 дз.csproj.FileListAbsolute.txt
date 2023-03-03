@@ -1,0 +1,15 @@
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\bin\Debug\net6.0\64 дз.exe
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\bin\Debug\net6.0\64 дз.deps.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\bin\Debug\net6.0\64 дз.runtimeconfig.json
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\bin\Debug\net6.0\64 дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\bin\Debug\net6.0\64 дз.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.csproj.AssemblyReference.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.AssemblyInfoInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.AssemblyInfo.cs
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.csproj.CoreCompileInputs.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\refint\64 дз.dll
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.pdb
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\64 дз.genruntimeconfig.cache
+C:\Users\Нубук\Desktop\git учеба\C# учеба\28.01.2023_C#1\64 дз\obj\Debug\net6.0\ref\64 дз.dll
